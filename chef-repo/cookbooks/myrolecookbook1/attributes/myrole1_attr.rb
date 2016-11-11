@@ -1,0 +1,1 @@
+default['myfirstcookbook']['sudo']['groups'] = [ 'sysadmin', 'wheel', 'admin' ]
